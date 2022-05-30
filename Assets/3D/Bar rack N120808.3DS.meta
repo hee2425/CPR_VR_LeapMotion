@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 12666271a2165904d9357e0be46b2329
+timeCreated: 1517899308
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fuzher_03
+    100004: Fuzher_04
+    100006: Fuzher_05
+    100008: Fuzher_06
+    100010: Fuzher_07
+    100012: Fuzher_08
+    100014: Fuzher_09
+    100016: Fuzher_10
+    100018: Fuzher_11
+    100020: Fuzher_12
+    100022: Fuzher_13
+    100024: Fuzher_14
+    100026: Fuzher_15
+    100028: Fuzher_16
+    100030: Fuzher_17
+    100032: Fuzher_18
+    100034: Fuzher_19
+    100036: Fuzher_20
+    100038: Fuzher_21
+    100040: Fuzher_22
+    100042: Fuzher_23
+    100044: Fuzher_24
+    100046: Fuzher_25
+    100048: Fuzher_26
+    100050: Fuzher_27
+    100052: Fuzher_28
+    100054: Fuzher_29
+    100056: Fuzher_30
+    100058: Fuzher_31
+    100060: Fuzher_32
+    100062: Gostev_sto
+    100064: Krisha
+    100066: Krisha01
+    100068: Krisha02
+    100070: Licevaya_c
+    100072: Line01
+    100074: Line05
+    100076: Line06
+    100078: Line07
+    100080: Loft02
+    100082: Loft03
+    100084: Loft04
+    100086: Loft06
+    100088: Noga 01
+    100090: Noga 03
+    100092: Noga 04
+    100094: Noga 05
+    100096: Noga 06
+    100098: Noga 07
+    100100: Reshotka_M
+    100102: Shape01
+    100104: Sphere04
+    100106: Sphere05
+    100108: Sphere06
+    100110: Sphere07
+    100112: Truba_01
+    100114: Truba_02
+    100116: Truba_03
+    400000: //RootNode
+    400002: Fuzher_03
+    400004: Fuzher_04
+    400006: Fuzher_05
+    400008: Fuzher_06
+    400010: Fuzher_07
+    400012: Fuzher_08
+    400014: Fuzher_09
+    400016: Fuzher_10
+    400018: Fuzher_11
+    400020: Fuzher_12
+    400022: Fuzher_13
+    400024: Fuzher_14
+    400026: Fuzher_15
+    400028: Fuzher_16
+    400030: Fuzher_17
+    400032: Fuzher_18
+    400034: Fuzher_19
+    400036: Fuzher_20
+    400038: Fuzher_21
+    400040: Fuzher_22
+    400042: Fuzher_23
+    400044: Fuzher_24
+    400046: Fuzher_25
+    400048: Fuzher_26
+    400050: Fuzher_27
+    400052: Fuzher_28
+    400054: Fuzher_29
+    400056: Fuzher_30
+    400058: Fuzher_31
+    400060: Fuzher_32
+    400062: Gostev_sto
+    400064: Krisha
+    400066: Krisha01
+    400068: Krisha02
+    400070: Licevaya_c
+    400072: Line01
+    400074: Line05
+    400076: Line06
+    400078: Line07
+    400080: Loft02
+    400082: Loft03
+    400084: Loft04
+    400086: Loft06
+    400088: Noga 01
+    400090: Noga 03
+    400092: Noga 04
+    400094: Noga 05
+    400096: Noga 06
+    400098: Noga 07
+    400100: Reshotka_M
+    400102: Shape01
+    400104: Sphere04
+    400106: Sphere05
+    400108: Sphere06
+    400110: Sphere07
+    400112: Truba_01
+    400114: Truba_02
+    400116: Truba_03
+    2100000: 'Material #12'
+    2300000: Fuzher_03
+    2300002: Fuzher_04
+    2300004: Fuzher_05
+    2300006: Fuzher_06
+    2300008: Fuzher_07
+    2300010: Fuzher_08
+    2300012: Fuzher_09
+    2300014: Fuzher_10
+    2300016: Fuzher_11
+    2300018: Fuzher_12
+    2300020: Fuzher_13
+    2300022: Fuzher_14
+    2300024: Fuzher_15
+    2300026: Fuzher_16
+    2300028: Fuzher_17
+    2300030: Fuzher_18
+    2300032: Fuzher_19
+    2300034: Fuzher_20
+    2300036: Fuzher_21
+    2300038: Fuzher_22
+    2300040: Fuzher_23
+    2300042: Fuzher_24
+    2300044: Fuzher_25
+    2300046: Fuzher_26
+    2300048: Fuzher_27
+    2300050: Fuzher_28
+    2300052: Fuzher_29
+    2300054: Fuzher_30
+    2300056: Fuzher_31
+    2300058: Fuzher_32
+    2300060: Gostev_sto
+    2300062: Krisha
+    2300064: Krisha01
+    2300066: Krisha02
+    2300068: Licevaya_c
+    2300070: Line01
+    2300072: Line05
+    2300074: Line06
+    2300076: Line07
+    2300078: Loft02
+    2300080: Loft03
+    2300082: Loft04
+    2300084: Loft06
+    2300086: Noga 01
+    2300088: Noga 03
+    2300090: Noga 04
+    2300092: Noga 05
+    2300094: Noga 06
+    2300096: Noga 07
+    2300098: Reshotka_M
+    2300100: Shape01
+    2300102: Sphere04
+    2300104: Sphere05
+    2300106: Sphere06
+    2300108: Sphere07
+    2300110: Truba_01
+    2300112: Truba_02
+    2300114: Truba_03
+    3300000: Fuzher_03
+    3300002: Fuzher_04
+    3300004: Fuzher_05
+    3300006: Fuzher_06
+    3300008: Fuzher_07
+    3300010: Fuzher_08
+    3300012: Fuzher_09
+    3300014: Fuzher_10
+    3300016: Fuzher_11
+    3300018: Fuzher_12
+    3300020: Fuzher_13
+    3300022: Fuzher_14
+    3300024: Fuzher_15
+    3300026: Fuzher_16
+    3300028: Fuzher_17
+    3300030: Fuzher_18
+    3300032: Fuzher_19
+    3300034: Fuzher_20
+    3300036: Fuzher_21
+    3300038: Fuzher_22
+    3300040: Fuzher_23
+    3300042: Fuzher_24
+    3300044: Fuzher_25
+    3300046: Fuzher_26
+    3300048: Fuzher_27
+    3300050: Fuzher_28
+    3300052: Fuzher_29
+    3300054: Fuzher_30
+    3300056: Fuzher_31
+    3300058: Fuzher_32
+    3300060: Gostev_sto
+    3300062: Krisha
+    3300064: Krisha01
+    3300066: Krisha02
+    3300068: Licevaya_c
+    3300070: Line01
+    3300072: Line05
+    3300074: Line06
+    3300076: Line07
+    3300078: Loft02
+    3300080: Loft03
+    3300082: Loft04
+    3300084: Loft06
+    3300086: Noga 01
+    3300088: Noga 03
+    3300090: Noga 04
+    3300092: Noga 05
+    3300094: Noga 06
+    3300096: Noga 07
+    3300098: Reshotka_M
+    3300100: Shape01
+    3300102: Sphere04
+    3300104: Sphere05
+    3300106: Sphere06
+    3300108: Sphere07
+    3300110: Truba_01
+    3300112: Truba_02
+    3300114: Truba_03
+    4300000: Fuzher_03
+    4300002: Gostev_sto
+    4300004: Krisha
+    4300006: Krisha02
+    4300008: Licevaya_c
+    4300010: Line01
+    4300012: Line05
+    4300014: Line06
+    4300016: Line07
+    4300018: Loft02
+    4300020: Loft03
+    4300022: Loft06
+    4300024: Noga 01
+    4300026: Noga 05
+    4300028: Reshotka_M
+    4300030: Shape01
+    4300032: Sphere04
+    4300034: Truba_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

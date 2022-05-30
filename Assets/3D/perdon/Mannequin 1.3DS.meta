@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: a8d786489de904041be24169bfa78dd0
+timeCreated: 1517977736
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bodyShape_
+    100002: default
+    100004: eye_l_Shap
+    100006: eye_r_Shap
+    100008: eyelash_l0
+    100010: eyelash_l_
+    100012: eyelash_r0
+    100014: eyelash_r_
+    100016: Group001
+    100018: hair_Shape
+    100020: //RootNode
+    100022: shoes_r_S0
+    100024: shoes_r_Sh
+    100026: Torus001
+    400000: bodyShape_
+    400002: default
+    400004: eye_l_Shap
+    400006: eye_r_Shap
+    400008: eyelash_l0
+    400010: eyelash_l_
+    400012: eyelash_r0
+    400014: eyelash_r_
+    400016: Group001
+    400018: hair_Shape
+    400020: //RootNode
+    400022: shoes_r_S0
+    400024: shoes_r_Sh
+    400026: Torus001
+    2100000: W_eye
+    2100002: 'Material #178'
+    2100004: W_eyelashes
+    2100006: 'Material #179'
+    2100008: 12 - Default
+    2100010: Hair_base_cap
+    2100012: Hair_cap1
+    2100014: Hair
+    2100016: 'Material #191'
+    2100018: W_body
+    2100020: W_face
+    2100022: W_hand_leg
+    2300000: bodyShape_
+    2300002: default
+    2300004: eye_l_Shap
+    2300006: eye_r_Shap
+    2300008: eyelash_l0
+    2300010: eyelash_l_
+    2300012: eyelash_r0
+    2300014: eyelash_r_
+    2300016: hair_Shape
+    2300018: shoes_r_S0
+    2300020: shoes_r_Sh
+    2300022: Torus001
+    3300000: bodyShape_
+    3300002: default
+    3300004: eye_l_Shap
+    3300006: eye_r_Shap
+    3300008: eyelash_l0
+    3300010: eyelash_l_
+    3300012: eyelash_r0
+    3300014: eyelash_r_
+    3300016: hair_Shape
+    3300018: shoes_r_S0
+    3300020: shoes_r_Sh
+    3300022: Torus001
+    4300000: eye_r_Shap
+    4300002: eyelash_r_
+    4300004: eyelash_r0
+    4300006: eyelash_l_
+    4300008: eyelash_l0
+    4300010: eye_l_Shap
+    4300012: Torus001
+    4300014: shoes_r_Sh
+    4300016: hair_Shape
+    4300018: shoes_r_S0
+    4300020: default
+    4300022: bodyShape_
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

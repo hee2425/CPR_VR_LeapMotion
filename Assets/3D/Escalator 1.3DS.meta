@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: c7838fc02ce671f4ea1438de714bc8b9
+timeCreated: 1517893330
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group02
+    100004: Group09
+    100006: Mesh Obje0
+    100008: Mesh Objec
+    100010: Object04
+    100012: Object09
+    100014: Object15
+    100016: step18
+    100018: step19
+    100020: step20
+    100022: step21
+    100024: step22
+    100026: step23
+    100028: step24
+    100030: step25
+    100032: step26
+    100034: step27
+    100036: step28
+    100038: step29
+    100040: step30
+    100042: step31
+    100044: step32
+    100046: step33
+    100048: step34
+    100050: step35
+    100052: step54
+    100054: step55
+    400000: //RootNode
+    400002: Group02
+    400004: Group09
+    400006: Mesh Obje0
+    400008: Mesh Objec
+    400010: Object04
+    400012: Object09
+    400014: Object15
+    400016: step18
+    400018: step19
+    400020: step20
+    400022: step21
+    400024: step22
+    400026: step23
+    400028: step24
+    400030: step25
+    400032: step26
+    400034: step27
+    400036: step28
+    400038: step29
+    400040: step30
+    400042: step31
+    400044: step32
+    400046: step33
+    400048: step34
+    400050: step35
+    400052: step54
+    400054: step55
+    2100000: esc_metal
+    2100002: rubber1
+    2100004: esc_glass
+    2100006: rubber2
+    2100008: steps_metal1
+    2100010: steps_metal2
+    2100012: arrival_plate1
+    2300000: Mesh Obje0
+    2300002: Mesh Objec
+    2300004: Object04
+    2300006: Object09
+    2300008: Object15
+    2300010: step18
+    2300012: step19
+    2300014: step20
+    2300016: step21
+    2300018: step22
+    2300020: step23
+    2300022: step24
+    2300024: step25
+    2300026: step26
+    2300028: step27
+    2300030: step28
+    2300032: step29
+    2300034: step30
+    2300036: step31
+    2300038: step32
+    2300040: step33
+    2300042: step34
+    2300044: step35
+    2300046: step54
+    2300048: step55
+    3300000: Mesh Obje0
+    3300002: Mesh Objec
+    3300004: Object04
+    3300006: Object09
+    3300008: Object15
+    3300010: step18
+    3300012: step19
+    3300014: step20
+    3300016: step21
+    3300018: step22
+    3300020: step23
+    3300022: step24
+    3300024: step25
+    3300026: step26
+    3300028: step27
+    3300030: step28
+    3300032: step29
+    3300034: step30
+    3300036: step31
+    3300038: step32
+    3300040: step33
+    3300042: step34
+    3300044: step35
+    3300046: step54
+    3300048: step55
+    4300000: Object04
+    4300002: Mesh Objec
+    4300004: step18
+    4300006: Object09
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

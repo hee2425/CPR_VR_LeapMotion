@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 058e6c76ebd52d04dba91a72b16b87b6
+timeCreated: 1517977720
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: FemKFigur0
+    100002: FemKFigur1
+    100004: FemKFigure
+    100006: //RootNode
+    100008: Potato spo
+    400000: FemKFigur0
+    400002: FemKFigur1
+    400004: FemKFigure
+    400006: //RootNode
+    400008: Potato spo
+    2100000: SkinHip_1
+    2100002: SkinTorso_1
+    2100004: PubicHair_1
+    2100006: SkinNeck_1
+    2100008: SkinHead_1
+    2100010: SkinScalp_1
+    2100012: Lips_1
+    2100014: EyeSocket_1
+    2100016: InnerMouth_1
+    2100018: Nostrils_1
+    2100020: Lacrimal_1
+    2100022: Eyelashes_1
+    2100024: Eyebrows_1
+    2100026: Teeth_1
+    2100028: Gums_1
+    2100030: Tongue_1
+    2100032: LCornea_1
+    2100034: LEyewhite_1
+    2100036: LPupil_1
+    2100038: LIris_1
+    2100040: RCornea_1
+    2100042: REyewhite_1
+    2100044: RPupil_1
+    2100046: RIris_1
+    2100048: Nipples_1
+    2100050: SkinForearm_1
+    2100052: SkinArm_1
+    2100054: SkinHand_1
+    2100056: Fingernails_1
+    2100058: SkinLeg_1
+    2100060: SkinFeet_1
+    2100062: Toenails_1
+    2100064: sleeve_1
+    2100066: cloth_1
+    2100068: collar_1
+    2100070: belt_1
+    2100072: lock_1
+    2100074: LooseHairM_1
+    2100076: LooseHairS_1
+    2100078: LooseHairL_1
+    2100080: mid2_1
+    2100082: long1_1
+    2100084: long2_1
+    2100086: mid1_1
+    2100088: short1_1
+    2100090: short2_1
+    2100092: short3_1
+    2100094: HeadTop_1
+    2100096: Metal_2
+    2100098: Straps_2
+    2100100: Strap_Inside_2
+    2100102: Heel_Tip_2
+    2100104: Body_2
+    2100106: Inner_2
+    2100108: Metal_3
+    2100110: Straps_3
+    2100112: Strap_Inside_3
+    2100114: Heel_Tip_3
+    2100116: Body_3
+    2100118: Inner_3
+    2100120: metal
+    2100122: ell
+    2300000: FemKFigur0
+    2300002: FemKFigur1
+    2300004: FemKFigure
+    2300006: Potato spo
+    3300000: FemKFigur0
+    3300002: FemKFigur1
+    3300004: FemKFigure
+    3300006: Potato spo
+    4300000: FemKFigure
+    4300002: FemKFigur0
+    4300004: FemKFigur1
+    4300006: Potato spo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
